@@ -1,0 +1,8 @@
+The aim 01: Initialize a Vue 3 project with TypeScript and connect it to a GitHub repository. 
+Actual prompt: "order of commands to upload my local code to github"
+
+The aim 02: Understanding TypeScript Interfaces and Vue Core concepts (ref, onMounted).
+Actual prompt: "How do I define a TypeScript interface for the User API from DummyJSON? Specifically, 
+how do I define a list of users within that interface without using 'any'? 
+Also, can you explain the meaning of 'ref' and 'onMounted' in Vue 3, and 
+how this type-definition logic compares to languages like C# or C?" 
