@@ -9,15 +9,26 @@ how this type-definition logic compares to languages like C# or C?"
 
 The aim 03: To understand the implementation of asynchronous data fetching using the Fetch API and managing 
 component state in Vue 3 with TypeScript. 
-Actual prompt: "Can you explain how the asynchronous function to fetch data from an API works step-by-step? Specifically, 
-explain the use of async/await, try-catch blocks, and how the fetched data is assigned to a reactive variable while maintaining type safety."
+Actual prompt: "Can you explain how the asynchronous function to fetch data from an API works step-by-step? 
+Specifically, explain the use of async/await, try-catch blocks, and how the fetched data is assigned to a 
+reactive variable while maintaining type safety."
 
-The aim 04: To design and implement a modular component architecture for the SPA, ensuring separation of concerns and reusability 
-as per the technical requirements.
+The aim 04: To design and implement a modular component architecture for the SPA, ensuring separation of concerns 
+and reusability as per the technical requirements.
 Actual prompt: "Explain the concept of Component Architecture in Vue 3. How should I break down my application into reusable components 
 like NavBar, UserList, and UserCard? Also, explain the parent-child relationship in terms of data flow."
 
-The aim 05: To implement a fully responsive grid layout using Tailwind CSS utility classes, ensuring compatibility across mobile, tablet, 
-and desktop view ports as per project requirements.
-Actual prompt: "Explain how to create a responsive grid layout in Tailwind CSS that shows 1 column on mobile, 2 on tablets, and 4 on desktops. 
-Provide the specific class names and their meanings."
+The aim 05: To implement a fully responsive grid layout using Tailwind CSS utility classes, ensuring compatibility 
+across mobile, tablet, and desktop view ports as per project requirements.
+Actual prompt: "Explain how to create a responsive grid layout in Tailwind CSS that shows 1 column on mobile, 
+2 on tablets, and 4 on desktops. Provide the specific class names and their meanings."
+
+The aim 06: To implement real-time search functionality using two-way data binding (v-model) and reactive 
+filtering with Computed Properties, ensuring the UI updates dynamically based on user input.
+Actual prompt: "explain about computed and v-model searchQuery. How can I use them together to filter a list 
+of users fetched from an API in Vue 3?"
+
+The aim 07: To establish communication from child to parent components using custom events (Emits), enabling 
+user interaction such as opening a detail modal for a specific item as required by the project specifications.
+Actual prompt: "Explain the usage of defineEmits and event listeners like @view-details in Vue 3. 
+How can I use them to trigger a function in a parent component when a button is clicked in a child component?"
